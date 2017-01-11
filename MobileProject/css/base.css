@@ -1,0 +1,42 @@
+/* reset */
+html{color:#999999;background:#fff;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}
+img{border:none;}
+em,strong{font-style:normal;font-weight:normal;}
+li{list-style:none;}
+table {border-collapse:collapse;border-spacing:0;}
+q:before,q:after{content:'';}/* 消除q前后的内容 */
+button,input,select,textarea{font-size:100%;}/* 使得表单元素在 ie 下能继承字体大小 */
+input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}
+address,cite,dfn,em,var{font-style:normal;} /* 将斜体扶正 */
+/* link */
+a{color:#36c;text-decoration:none;}
+a:hover{color:#f60;text-decoration:underline;}
+html {
+    font-size : 20px;
+}
+/*@media only screen and (min-width: 401px){
+    html {
+        font-size: 25px !important;
+    }
+}
+@media only screen and (min-width: 428px){
+    html {
+        font-size: 26.75px !important;
+    }
+}
+@media only screen and (min-width: 481px){
+    html {
+        font-size: 30px !important; 
+    }
+}
+@media only screen and (min-width: 569px){
+    html {
+        font-size: 35px !important; 
+    }
+}
+@media only screen and (min-width: 641px){
+    html {
+        font-size: 40px !important; 
+    }
+}*/
